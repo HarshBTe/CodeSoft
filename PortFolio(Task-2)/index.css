@@ -1,0 +1,108 @@
+.brief-description-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+    
+}
+
+.profile-img{
+    height: 10%;
+    width: 20%;
+}
+
+.projects-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 70px;
+    margin-bottom: 50px;
+
+}
+
+.specific-project{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     padding: 5px; 
+     box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;     
+}
+
+.project-front-img{
+   height: 200px;
+   width: 200px;
+}
+
+.outer-project-container{
+   margin-top: 100px;
+   margin-bottom: 50px;
+   box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+   padding: 20px;
+}
+
+.heading-project{
+   color: black;
+}
+
+.inner-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #D3D3D3;
+}
+
+.icon-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+
+}
+
+.icon-containerl{
+
+    margin-right: 20px;
+
+}
+
+.contact-heading{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.icon-git{
+    margin-right: 30px;
+    height: 50px;
+    width: 50px;
+    color:black
+}
+
+
+.link-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.headercon{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.link-item{
+    margin-right: 10px;
+}
